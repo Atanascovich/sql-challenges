@@ -1,10 +1,5 @@
-# SQL Challenges 💾
+# SQL Practice Challenges 💾
 
-Repositório com desafios resolvidos em SQL para praticar.
+A curated set of solved SQL problems for learning, practice, and technical improvement.
 
-Organização:
-- `basicos.sql`: desafios introdutórios
-- `avancados.sql`: desafios mais complexos
-- Pasta `leetcode/`: soluções de desafios populares da plataforma LeetCode
-
-🧠 Foco em escrita clara, performance e legibilidade.
+🧠 Emphasis on clarity, performance, and clean query design.
